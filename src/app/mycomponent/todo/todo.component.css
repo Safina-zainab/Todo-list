@@ -1,0 +1,18 @@
+#button-addon2{
+    background-color: green;
+    color: black;
+}
+
+#button-addon2:hover{
+    background-color: darkgreen;
+    color: white;
+}
+#sp{
+    align-self: center;
+    border-bottom: 2px solid blue;
+}
+ .btn-btn-danger{
+
+    display: inline;
+    float: right;
+ }
